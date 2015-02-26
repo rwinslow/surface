@@ -1,4 +1,4 @@
 surface
 =======
 
-Module for processing surfaces from Olympus LEXT software
+Module for processing and analyzing surface height maps from a CSV file.
